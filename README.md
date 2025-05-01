@@ -1,8 +1,11 @@
-Hallo mein Name ist Stephanie,
-vielen Dank für Ihr Interesse an meiner Person.
-Ich habe erst vor kurzem das Programmieren für mich entdeckt. Leider ist das Selbststudium nur bis zu einem Zeitpunkt möglich.
-Ich würde mich sher freuen wenn sich jemand die Zeit nimmt mal in meine Projekte reinschaut und mir hilfreiche Tipps gibt.
-Vielen Dank für die Investierte Zeit.
+Hello and welcome to Stephanie Wunsch´s GitHub page.
 
-Mit freundlichen Grüssen
+I started programming in Python in February without any previous knowledge.
+My projects so far are simple.
+My dream is to work for companies like Google or x.Ai and I am willing to work hard for it.
+Unfortunately, I have been denied the opportunity to take a training course.
+Therefore, I will continue to work on it through self-study.
+If you notice any mistakes or have any suggestions for improvement, I would be grateful if you could let me knoe.
+
+Thank you for your intrest.
 Stephanie Wunsch
